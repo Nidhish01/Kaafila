@@ -94,5 +94,6 @@ The dedicated Android app lives in [driver-mobile](driver-mobile/README.md). Ope
 - [Firebase setup and physical-phone launch gate](docs/FIREBASE_SETUP.md)
 - [API, offline queue and stock-custody rules](docs/DISPATCH_API.md)
 - [Release notes and verification](docs/DRIVER_RELEASE.md)
+- [Download the signed Android APK](https://github.com/Nidhish01/Kaafila/releases/download/driver-v0.1.0/Kaafila-Driver-0.1.0.apk) — Firebase setup pending; includes the isolated sample trip.
 
 Run `npm run test:dispatch` for domain checks and `npm run test:firebase` for isolated Auth, Firestore, Storage and Functions emulator tests (Java 21 required).

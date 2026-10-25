@@ -2,6 +2,8 @@
 
 React Native / Expo Android app with English, Hindi and Punjabi interfaces. Production features use native Firebase phone authentication, a versioned dispatch API, SQLite outbox, private delivery photos, foreground-service GPS and FCM. Expo Go cannot run its native Firebase modules.
 
+[Download the signed Android APK](https://github.com/Nidhish01/Kaafila/releases/download/driver-v0.1.0/Kaafila-Driver-0.1.0.apk). This version has Firebase setup pending and includes the sample walkthrough. Install it directly on an Android 7.0+ ARM phone; a development server is not required. Physical-phone validation remains pending.
+
 Open **Explore sample trip** to inspect the full assignment → accept → pickup → two deliveries → completion workflow. Sample interactions do not call Firebase, use GPS, open phone numbers, or send photos. Restarting the sample resets it.
 
 For a shortage example, load 60 milk cartons and 20 bread crates. At the first stop record 30 milk cartons instead of 40, add a damage reason, receiver and sample photo. Deliver the second stop's 20 cartons and 8 crates. Completion enters manager review and preserves the discrepancy.
