@@ -1,0 +1,640 @@
+{"text": "Urgent note for Patiala: fresh milk. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ambala: milk packs. roads are flooded by heavy rain; supply returns in 8 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Chandigarh: dairy milk. roads are flooded by heavy rain; supply returns in 12 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk cartons. roads are flooded by heavy rain; supply returns in 18 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Karnal: pasteurised milk. roads are flooded by heavy rain; supply returns in 24 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Panipat: toned milk. roads are flooded by heavy rain; supply returns in 30 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Patiala: doodh packets. roads are flooded by heavy rain; supply returns in 48 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ambala: milk pouches. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Patiala: bread loaves. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ambala: whole wheat bread. roads are flooded by heavy rain; supply returns in 8 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sliced bread. roads are flooded by heavy rain; supply returns in 12 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ludhiana: bread packets. roads are flooded by heavy rain; supply returns in 18 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Karnal: bakery bread. roads are flooded by heavy rain; supply returns in 24 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Panipat: sandwich loaves. roads are flooded by heavy rain; supply returns in 30 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Patiala: fresh bread. roads are flooded by heavy rain; supply returns in 48 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ambala: white bread. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Patiala: rice bags. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ambala: basmati rice. roads are flooded by heavy rain; supply returns in 8 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice sacks. roads are flooded by heavy rain; supply returns in 12 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ludhiana: 5 kg rice. roads are flooded by heavy rain; supply returns in 18 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Karnal: staple rice. roads are flooded by heavy rain; supply returns in 24 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Panipat: brown rice. roads are flooded by heavy rain; supply returns in 30 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Patiala: chawal bags. roads are flooded by heavy rain; supply returns in 48 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ambala: rice packets. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Patiala: essential care kits. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicine kits. roads are flooded by heavy rain; supply returns in 8 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medical supplies. roads are flooded by heavy rain; supply returns in 12 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: pharmacy kits. roads are flooded by heavy rain; supply returns in 18 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Karnal: healthcare packs. roads are flooded by heavy rain; supply returns in 24 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Panipat: first aid kits. roads are flooded by heavy rain; supply returns in 30 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Patiala: medicines. roads are flooded by heavy rain; supply returns in 48 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ambala: care kits. roads are flooded by heavy rain; supply returns in 3 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ambala: fresh milk. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk packs. storm flooding made the route inaccessible; supply returns in 12 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ludhiana: dairy milk. storm flooding made the route inaccessible; supply returns in 18 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Karnal: milk cartons. storm flooding made the route inaccessible; supply returns in 24 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Panipat: pasteurised milk. storm flooding made the route inaccessible; supply returns in 30 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Patiala: toned milk. storm flooding made the route inaccessible; supply returns in 48 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ambala: doodh packets. storm flooding made the route inaccessible; supply returns in 3 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk pouches. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ambala: bread loaves. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Chandigarh: whole wheat bread. storm flooding made the route inaccessible; supply returns in 12 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ludhiana: sliced bread. storm flooding made the route inaccessible; supply returns in 18 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Karnal: bread packets. storm flooding made the route inaccessible; supply returns in 24 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Panipat: bakery bread. storm flooding made the route inaccessible; supply returns in 30 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Patiala: sandwich loaves. storm flooding made the route inaccessible; supply returns in 48 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ambala: fresh bread. storm flooding made the route inaccessible; supply returns in 3 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Chandigarh: white bread. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ambala: rice bags. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Chandigarh: basmati rice. storm flooding made the route inaccessible; supply returns in 12 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice sacks. storm flooding made the route inaccessible; supply returns in 18 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Karnal: 5 kg rice. storm flooding made the route inaccessible; supply returns in 24 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Panipat: staple rice. storm flooding made the route inaccessible; supply returns in 30 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Patiala: brown rice. storm flooding made the route inaccessible; supply returns in 48 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ambala: chawal bags. storm flooding made the route inaccessible; supply returns in 3 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice packets. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ambala: essential care kits. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicine kits. storm flooding made the route inaccessible; supply returns in 12 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medical supplies. storm flooding made the route inaccessible; supply returns in 18 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Karnal: pharmacy kits. storm flooding made the route inaccessible; supply returns in 24 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Panipat: healthcare packs. storm flooding made the route inaccessible; supply returns in 30 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Patiala: first aid kits. storm flooding made the route inaccessible; supply returns in 48 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicines. storm flooding made the route inaccessible; supply returns in 3 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: care kits. storm flooding made the route inaccessible; supply returns in 8 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: fresh milk. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk packs. severe monsoon weather shut the bridge; supply returns in 18 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Karnal: dairy milk. severe monsoon weather shut the bridge; supply returns in 24 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Panipat: milk cartons. severe monsoon weather shut the bridge; supply returns in 30 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Patiala: pasteurised milk. severe monsoon weather shut the bridge; supply returns in 48 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ambala: toned milk. severe monsoon weather shut the bridge; supply returns in 3 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Chandigarh: doodh packets. severe monsoon weather shut the bridge; supply returns in 8 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk pouches. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Chandigarh: bread loaves. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ludhiana: whole wheat bread. severe monsoon weather shut the bridge; supply returns in 18 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Karnal: sliced bread. severe monsoon weather shut the bridge; supply returns in 24 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Panipat: bread packets. severe monsoon weather shut the bridge; supply returns in 30 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Patiala: bakery bread. severe monsoon weather shut the bridge; supply returns in 48 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ambala: sandwich loaves. severe monsoon weather shut the bridge; supply returns in 3 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Chandigarh: fresh bread. severe monsoon weather shut the bridge; supply returns in 8 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ludhiana: white bread. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Chandigarh: rice bags. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ludhiana: basmati rice. severe monsoon weather shut the bridge; supply returns in 18 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Karnal: rice sacks. severe monsoon weather shut the bridge; supply returns in 24 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Panipat: 5 kg rice. severe monsoon weather shut the bridge; supply returns in 30 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Patiala: staple rice. severe monsoon weather shut the bridge; supply returns in 48 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ambala: brown rice. severe monsoon weather shut the bridge; supply returns in 3 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Chandigarh: chawal bags. severe monsoon weather shut the bridge; supply returns in 8 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice packets. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Chandigarh: essential care kits. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicine kits. severe monsoon weather shut the bridge; supply returns in 18 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Karnal: medical supplies. severe monsoon weather shut the bridge; supply returns in 24 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Panipat: pharmacy kits. severe monsoon weather shut the bridge; supply returns in 30 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Patiala: healthcare packs. severe monsoon weather shut the bridge; supply returns in 48 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ambala: first aid kits. severe monsoon weather shut the bridge; supply returns in 3 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicines. severe monsoon weather shut the bridge; supply returns in 8 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: care kits. severe monsoon weather shut the bridge; supply returns in 12 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: fresh milk. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Karnal: milk packs. rainwater on the highway stopped transport; supply returns in 24 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Panipat: dairy milk. rainwater on the highway stopped transport; supply returns in 30 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Patiala: milk cartons. rainwater on the highway stopped transport; supply returns in 48 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ambala: pasteurised milk. rainwater on the highway stopped transport; supply returns in 3 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Chandigarh: toned milk. rainwater on the highway stopped transport; supply returns in 8 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ludhiana: doodh packets. rainwater on the highway stopped transport; supply returns in 12 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Karnal: milk pouches. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "milk"}
+{"text": "Urgent note for Ludhiana: bread loaves. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Karnal: whole wheat bread. rainwater on the highway stopped transport; supply returns in 24 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Panipat: sliced bread. rainwater on the highway stopped transport; supply returns in 30 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Patiala: bread packets. rainwater on the highway stopped transport; supply returns in 48 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ambala: bakery bread. rainwater on the highway stopped transport; supply returns in 3 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sandwich loaves. rainwater on the highway stopped transport; supply returns in 8 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ludhiana: fresh bread. rainwater on the highway stopped transport; supply returns in 12 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Karnal: white bread. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "bread"}
+{"text": "Urgent note for Ludhiana: rice bags. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Karnal: basmati rice. rainwater on the highway stopped transport; supply returns in 24 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Panipat: rice sacks. rainwater on the highway stopped transport; supply returns in 30 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Patiala: 5 kg rice. rainwater on the highway stopped transport; supply returns in 48 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ambala: staple rice. rainwater on the highway stopped transport; supply returns in 3 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Chandigarh: brown rice. rainwater on the highway stopped transport; supply returns in 8 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ludhiana: chawal bags. rainwater on the highway stopped transport; supply returns in 12 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Karnal: rice packets. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "rice"}
+{"text": "Urgent note for Ludhiana: essential care kits. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Karnal: medicine kits. rainwater on the highway stopped transport; supply returns in 24 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Panipat: medical supplies. rainwater on the highway stopped transport; supply returns in 30 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Patiala: pharmacy kits. rainwater on the highway stopped transport; supply returns in 48 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ambala: healthcare packs. rainwater on the highway stopped transport; supply returns in 3 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: first aid kits. rainwater on the highway stopped transport; supply returns in 8 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicines. rainwater on the highway stopped transport; supply returns in 12 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Karnal: care kits. rainwater on the highway stopped transport; supply returns in 18 hours.", "type": "weather", "product": "medicine"}
+{"text": "Urgent note for Patiala: fresh milk. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ambala: milk packs. customer demand rose sharply during festival sales; supply returns in 8 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Chandigarh: dairy milk. customer demand rose sharply during festival sales; supply returns in 12 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk cartons. customer demand rose sharply during festival sales; supply returns in 18 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Karnal: pasteurised milk. customer demand rose sharply during festival sales; supply returns in 24 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Panipat: toned milk. customer demand rose sharply during festival sales; supply returns in 30 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Patiala: doodh packets. customer demand rose sharply during festival sales; supply returns in 48 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ambala: milk pouches. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Patiala: bread loaves. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ambala: whole wheat bread. customer demand rose sharply during festival sales; supply returns in 8 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sliced bread. customer demand rose sharply during festival sales; supply returns in 12 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ludhiana: bread packets. customer demand rose sharply during festival sales; supply returns in 18 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Karnal: bakery bread. customer demand rose sharply during festival sales; supply returns in 24 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Panipat: sandwich loaves. customer demand rose sharply during festival sales; supply returns in 30 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Patiala: fresh bread. customer demand rose sharply during festival sales; supply returns in 48 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ambala: white bread. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Patiala: rice bags. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ambala: basmati rice. customer demand rose sharply during festival sales; supply returns in 8 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice sacks. customer demand rose sharply during festival sales; supply returns in 12 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ludhiana: 5 kg rice. customer demand rose sharply during festival sales; supply returns in 18 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Karnal: staple rice. customer demand rose sharply during festival sales; supply returns in 24 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Panipat: brown rice. customer demand rose sharply during festival sales; supply returns in 30 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Patiala: chawal bags. customer demand rose sharply during festival sales; supply returns in 48 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ambala: rice packets. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Patiala: essential care kits. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicine kits. customer demand rose sharply during festival sales; supply returns in 8 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medical supplies. customer demand rose sharply during festival sales; supply returns in 12 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: pharmacy kits. customer demand rose sharply during festival sales; supply returns in 18 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Karnal: healthcare packs. customer demand rose sharply during festival sales; supply returns in 24 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Panipat: first aid kits. customer demand rose sharply during festival sales; supply returns in 30 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Patiala: medicines. customer demand rose sharply during festival sales; supply returns in 48 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ambala: care kits. customer demand rose sharply during festival sales; supply returns in 3 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ambala: fresh milk. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk packs. a promotion has caused sales to surge; supply returns in 12 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ludhiana: dairy milk. a promotion has caused sales to surge; supply returns in 18 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Karnal: milk cartons. a promotion has caused sales to surge; supply returns in 24 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Panipat: pasteurised milk. a promotion has caused sales to surge; supply returns in 30 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Patiala: toned milk. a promotion has caused sales to surge; supply returns in 48 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ambala: doodh packets. a promotion has caused sales to surge; supply returns in 3 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk pouches. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ambala: bread loaves. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Chandigarh: whole wheat bread. a promotion has caused sales to surge; supply returns in 12 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ludhiana: sliced bread. a promotion has caused sales to surge; supply returns in 18 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Karnal: bread packets. a promotion has caused sales to surge; supply returns in 24 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Panipat: bakery bread. a promotion has caused sales to surge; supply returns in 30 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Patiala: sandwich loaves. a promotion has caused sales to surge; supply returns in 48 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ambala: fresh bread. a promotion has caused sales to surge; supply returns in 3 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Chandigarh: white bread. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ambala: rice bags. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Chandigarh: basmati rice. a promotion has caused sales to surge; supply returns in 12 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice sacks. a promotion has caused sales to surge; supply returns in 18 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Karnal: 5 kg rice. a promotion has caused sales to surge; supply returns in 24 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Panipat: staple rice. a promotion has caused sales to surge; supply returns in 30 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Patiala: brown rice. a promotion has caused sales to surge; supply returns in 48 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ambala: chawal bags. a promotion has caused sales to surge; supply returns in 3 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice packets. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ambala: essential care kits. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicine kits. a promotion has caused sales to surge; supply returns in 12 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medical supplies. a promotion has caused sales to surge; supply returns in 18 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Karnal: pharmacy kits. a promotion has caused sales to surge; supply returns in 24 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Panipat: healthcare packs. a promotion has caused sales to surge; supply returns in 30 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Patiala: first aid kits. a promotion has caused sales to surge; supply returns in 48 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicines. a promotion has caused sales to surge; supply returns in 3 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: care kits. a promotion has caused sales to surge; supply returns in 8 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: fresh milk. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk packs. unexpected purchases are exhausting shelf stock; supply returns in 18 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Karnal: dairy milk. unexpected purchases are exhausting shelf stock; supply returns in 24 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Panipat: milk cartons. unexpected purchases are exhausting shelf stock; supply returns in 30 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Patiala: pasteurised milk. unexpected purchases are exhausting shelf stock; supply returns in 48 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ambala: toned milk. unexpected purchases are exhausting shelf stock; supply returns in 3 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Chandigarh: doodh packets. unexpected purchases are exhausting shelf stock; supply returns in 8 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk pouches. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Chandigarh: bread loaves. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ludhiana: whole wheat bread. unexpected purchases are exhausting shelf stock; supply returns in 18 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Karnal: sliced bread. unexpected purchases are exhausting shelf stock; supply returns in 24 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Panipat: bread packets. unexpected purchases are exhausting shelf stock; supply returns in 30 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Patiala: bakery bread. unexpected purchases are exhausting shelf stock; supply returns in 48 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ambala: sandwich loaves. unexpected purchases are exhausting shelf stock; supply returns in 3 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Chandigarh: fresh bread. unexpected purchases are exhausting shelf stock; supply returns in 8 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ludhiana: white bread. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Chandigarh: rice bags. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ludhiana: basmati rice. unexpected purchases are exhausting shelf stock; supply returns in 18 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Karnal: rice sacks. unexpected purchases are exhausting shelf stock; supply returns in 24 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Panipat: 5 kg rice. unexpected purchases are exhausting shelf stock; supply returns in 30 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Patiala: staple rice. unexpected purchases are exhausting shelf stock; supply returns in 48 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ambala: brown rice. unexpected purchases are exhausting shelf stock; supply returns in 3 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Chandigarh: chawal bags. unexpected purchases are exhausting shelf stock; supply returns in 8 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice packets. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Chandigarh: essential care kits. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicine kits. unexpected purchases are exhausting shelf stock; supply returns in 18 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Karnal: medical supplies. unexpected purchases are exhausting shelf stock; supply returns in 24 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Panipat: pharmacy kits. unexpected purchases are exhausting shelf stock; supply returns in 30 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Patiala: healthcare packs. unexpected purchases are exhausting shelf stock; supply returns in 48 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ambala: first aid kits. unexpected purchases are exhausting shelf stock; supply returns in 3 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicines. unexpected purchases are exhausting shelf stock; supply returns in 8 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: care kits. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: fresh milk. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Karnal: milk packs. orders are twice the usual demand forecast; supply returns in 24 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Panipat: dairy milk. orders are twice the usual demand forecast; supply returns in 30 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Patiala: milk cartons. orders are twice the usual demand forecast; supply returns in 48 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ambala: pasteurised milk. orders are twice the usual demand forecast; supply returns in 3 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Chandigarh: toned milk. orders are twice the usual demand forecast; supply returns in 8 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ludhiana: doodh packets. orders are twice the usual demand forecast; supply returns in 12 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Karnal: milk pouches. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "milk"}
+{"text": "Urgent note for Ludhiana: bread loaves. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Karnal: whole wheat bread. orders are twice the usual demand forecast; supply returns in 24 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Panipat: sliced bread. orders are twice the usual demand forecast; supply returns in 30 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Patiala: bread packets. orders are twice the usual demand forecast; supply returns in 48 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ambala: bakery bread. orders are twice the usual demand forecast; supply returns in 3 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sandwich loaves. orders are twice the usual demand forecast; supply returns in 8 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ludhiana: fresh bread. orders are twice the usual demand forecast; supply returns in 12 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Karnal: white bread. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "bread"}
+{"text": "Urgent note for Ludhiana: rice bags. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Karnal: basmati rice. orders are twice the usual demand forecast; supply returns in 24 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Panipat: rice sacks. orders are twice the usual demand forecast; supply returns in 30 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Patiala: 5 kg rice. orders are twice the usual demand forecast; supply returns in 48 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ambala: staple rice. orders are twice the usual demand forecast; supply returns in 3 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Chandigarh: brown rice. orders are twice the usual demand forecast; supply returns in 8 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ludhiana: chawal bags. orders are twice the usual demand forecast; supply returns in 12 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Karnal: rice packets. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "rice"}
+{"text": "Urgent note for Ludhiana: essential care kits. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Karnal: medicine kits. orders are twice the usual demand forecast; supply returns in 24 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Panipat: medical supplies. orders are twice the usual demand forecast; supply returns in 30 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Patiala: pharmacy kits. orders are twice the usual demand forecast; supply returns in 48 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ambala: healthcare packs. orders are twice the usual demand forecast; supply returns in 3 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: first aid kits. orders are twice the usual demand forecast; supply returns in 8 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicines. orders are twice the usual demand forecast; supply returns in 12 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Karnal: care kits. orders are twice the usual demand forecast; supply returns in 18 hours.", "type": "demand", "product": "medicine"}
+{"text": "Urgent note for Patiala: fresh milk. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ambala: milk packs. our supplier has failed to ship the full order; supply returns in 8 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Chandigarh: dairy milk. our supplier has failed to ship the full order; supply returns in 12 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk cartons. our supplier has failed to ship the full order; supply returns in 18 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Karnal: pasteurised milk. our supplier has failed to ship the full order; supply returns in 24 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Panipat: toned milk. our supplier has failed to ship the full order; supply returns in 30 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Patiala: doodh packets. our supplier has failed to ship the full order; supply returns in 48 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ambala: milk pouches. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Patiala: bread loaves. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ambala: whole wheat bread. our supplier has failed to ship the full order; supply returns in 8 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sliced bread. our supplier has failed to ship the full order; supply returns in 12 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ludhiana: bread packets. our supplier has failed to ship the full order; supply returns in 18 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Karnal: bakery bread. our supplier has failed to ship the full order; supply returns in 24 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Panipat: sandwich loaves. our supplier has failed to ship the full order; supply returns in 30 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Patiala: fresh bread. our supplier has failed to ship the full order; supply returns in 48 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ambala: white bread. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Patiala: rice bags. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ambala: basmati rice. our supplier has failed to ship the full order; supply returns in 8 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice sacks. our supplier has failed to ship the full order; supply returns in 12 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ludhiana: 5 kg rice. our supplier has failed to ship the full order; supply returns in 18 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Karnal: staple rice. our supplier has failed to ship the full order; supply returns in 24 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Panipat: brown rice. our supplier has failed to ship the full order; supply returns in 30 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Patiala: chawal bags. our supplier has failed to ship the full order; supply returns in 48 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ambala: rice packets. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Patiala: essential care kits. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicine kits. our supplier has failed to ship the full order; supply returns in 8 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medical supplies. our supplier has failed to ship the full order; supply returns in 12 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: pharmacy kits. our supplier has failed to ship the full order; supply returns in 18 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Karnal: healthcare packs. our supplier has failed to ship the full order; supply returns in 24 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Panipat: first aid kits. our supplier has failed to ship the full order; supply returns in 30 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Patiala: medicines. our supplier has failed to ship the full order; supply returns in 48 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ambala: care kits. our supplier has failed to ship the full order; supply returns in 3 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ambala: fresh milk. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk packs. the factory cannot produce the promised shipment; supply returns in 12 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ludhiana: dairy milk. the factory cannot produce the promised shipment; supply returns in 18 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Karnal: milk cartons. the factory cannot produce the promised shipment; supply returns in 24 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Panipat: pasteurised milk. the factory cannot produce the promised shipment; supply returns in 30 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Patiala: toned milk. the factory cannot produce the promised shipment; supply returns in 48 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ambala: doodh packets. the factory cannot produce the promised shipment; supply returns in 3 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk pouches. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ambala: bread loaves. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Chandigarh: whole wheat bread. the factory cannot produce the promised shipment; supply returns in 12 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ludhiana: sliced bread. the factory cannot produce the promised shipment; supply returns in 18 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Karnal: bread packets. the factory cannot produce the promised shipment; supply returns in 24 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Panipat: bakery bread. the factory cannot produce the promised shipment; supply returns in 30 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Patiala: sandwich loaves. the factory cannot produce the promised shipment; supply returns in 48 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ambala: fresh bread. the factory cannot produce the promised shipment; supply returns in 3 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Chandigarh: white bread. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ambala: rice bags. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Chandigarh: basmati rice. the factory cannot produce the promised shipment; supply returns in 12 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice sacks. the factory cannot produce the promised shipment; supply returns in 18 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Karnal: 5 kg rice. the factory cannot produce the promised shipment; supply returns in 24 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Panipat: staple rice. the factory cannot produce the promised shipment; supply returns in 30 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Patiala: brown rice. the factory cannot produce the promised shipment; supply returns in 48 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ambala: chawal bags. the factory cannot produce the promised shipment; supply returns in 3 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice packets. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ambala: essential care kits. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicine kits. the factory cannot produce the promised shipment; supply returns in 12 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medical supplies. the factory cannot produce the promised shipment; supply returns in 18 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Karnal: pharmacy kits. the factory cannot produce the promised shipment; supply returns in 24 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Panipat: healthcare packs. the factory cannot produce the promised shipment; supply returns in 30 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Patiala: first aid kits. the factory cannot produce the promised shipment; supply returns in 48 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicines. the factory cannot produce the promised shipment; supply returns in 3 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: care kits. the factory cannot produce the promised shipment; supply returns in 8 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: fresh milk. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk packs. the vendor shortfall leaves replenishment incomplete; supply returns in 18 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Karnal: dairy milk. the vendor shortfall leaves replenishment incomplete; supply returns in 24 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Panipat: milk cartons. the vendor shortfall leaves replenishment incomplete; supply returns in 30 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Patiala: pasteurised milk. the vendor shortfall leaves replenishment incomplete; supply returns in 48 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ambala: toned milk. the vendor shortfall leaves replenishment incomplete; supply returns in 3 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Chandigarh: doodh packets. the vendor shortfall leaves replenishment incomplete; supply returns in 8 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk pouches. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Chandigarh: bread loaves. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ludhiana: whole wheat bread. the vendor shortfall leaves replenishment incomplete; supply returns in 18 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Karnal: sliced bread. the vendor shortfall leaves replenishment incomplete; supply returns in 24 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Panipat: bread packets. the vendor shortfall leaves replenishment incomplete; supply returns in 30 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Patiala: bakery bread. the vendor shortfall leaves replenishment incomplete; supply returns in 48 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ambala: sandwich loaves. the vendor shortfall leaves replenishment incomplete; supply returns in 3 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Chandigarh: fresh bread. the vendor shortfall leaves replenishment incomplete; supply returns in 8 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ludhiana: white bread. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Chandigarh: rice bags. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ludhiana: basmati rice. the vendor shortfall leaves replenishment incomplete; supply returns in 18 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Karnal: rice sacks. the vendor shortfall leaves replenishment incomplete; supply returns in 24 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Panipat: 5 kg rice. the vendor shortfall leaves replenishment incomplete; supply returns in 30 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Patiala: staple rice. the vendor shortfall leaves replenishment incomplete; supply returns in 48 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ambala: brown rice. the vendor shortfall leaves replenishment incomplete; supply returns in 3 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Chandigarh: chawal bags. the vendor shortfall leaves replenishment incomplete; supply returns in 8 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice packets. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Chandigarh: essential care kits. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicine kits. the vendor shortfall leaves replenishment incomplete; supply returns in 18 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Karnal: medical supplies. the vendor shortfall leaves replenishment incomplete; supply returns in 24 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Panipat: pharmacy kits. the vendor shortfall leaves replenishment incomplete; supply returns in 30 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Patiala: healthcare packs. the vendor shortfall leaves replenishment incomplete; supply returns in 48 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ambala: first aid kits. the vendor shortfall leaves replenishment incomplete; supply returns in 3 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicines. the vendor shortfall leaves replenishment incomplete; supply returns in 8 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: care kits. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: fresh milk. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Karnal: milk packs. the wholesaler cancelled our incoming supply; supply returns in 24 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Panipat: dairy milk. the wholesaler cancelled our incoming supply; supply returns in 30 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Patiala: milk cartons. the wholesaler cancelled our incoming supply; supply returns in 48 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ambala: pasteurised milk. the wholesaler cancelled our incoming supply; supply returns in 3 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Chandigarh: toned milk. the wholesaler cancelled our incoming supply; supply returns in 8 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ludhiana: doodh packets. the wholesaler cancelled our incoming supply; supply returns in 12 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Karnal: milk pouches. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "milk"}
+{"text": "Urgent note for Ludhiana: bread loaves. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Karnal: whole wheat bread. the wholesaler cancelled our incoming supply; supply returns in 24 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Panipat: sliced bread. the wholesaler cancelled our incoming supply; supply returns in 30 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Patiala: bread packets. the wholesaler cancelled our incoming supply; supply returns in 48 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ambala: bakery bread. the wholesaler cancelled our incoming supply; supply returns in 3 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sandwich loaves. the wholesaler cancelled our incoming supply; supply returns in 8 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ludhiana: fresh bread. the wholesaler cancelled our incoming supply; supply returns in 12 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Karnal: white bread. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "bread"}
+{"text": "Urgent note for Ludhiana: rice bags. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Karnal: basmati rice. the wholesaler cancelled our incoming supply; supply returns in 24 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Panipat: rice sacks. the wholesaler cancelled our incoming supply; supply returns in 30 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Patiala: 5 kg rice. the wholesaler cancelled our incoming supply; supply returns in 48 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ambala: staple rice. the wholesaler cancelled our incoming supply; supply returns in 3 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Chandigarh: brown rice. the wholesaler cancelled our incoming supply; supply returns in 8 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ludhiana: chawal bags. the wholesaler cancelled our incoming supply; supply returns in 12 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Karnal: rice packets. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "rice"}
+{"text": "Urgent note for Ludhiana: essential care kits. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Karnal: medicine kits. the wholesaler cancelled our incoming supply; supply returns in 24 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Panipat: medical supplies. the wholesaler cancelled our incoming supply; supply returns in 30 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Patiala: pharmacy kits. the wholesaler cancelled our incoming supply; supply returns in 48 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ambala: healthcare packs. the wholesaler cancelled our incoming supply; supply returns in 3 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: first aid kits. the wholesaler cancelled our incoming supply; supply returns in 8 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicines. the wholesaler cancelled our incoming supply; supply returns in 12 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Karnal: care kits. the wholesaler cancelled our incoming supply; supply returns in 18 hours.", "type": "supplier", "product": "medicine"}
+{"text": "Urgent note for Patiala: fresh milk. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ambala: milk packs. the load must be quarantined after a temperature excursion; supply returns in 8 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Chandigarh: dairy milk. the load must be quarantined after a temperature excursion; supply returns in 12 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk cartons. the load must be quarantined after a temperature excursion; supply returns in 18 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Karnal: pasteurised milk. the load must be quarantined after a temperature excursion; supply returns in 24 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Panipat: toned milk. the load must be quarantined after a temperature excursion; supply returns in 30 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Patiala: doodh packets. the load must be quarantined after a temperature excursion; supply returns in 48 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ambala: milk pouches. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Patiala: bread loaves. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ambala: whole wheat bread. the load must be quarantined after a temperature excursion; supply returns in 8 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sliced bread. the load must be quarantined after a temperature excursion; supply returns in 12 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ludhiana: bread packets. the load must be quarantined after a temperature excursion; supply returns in 18 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Karnal: bakery bread. the load must be quarantined after a temperature excursion; supply returns in 24 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Panipat: sandwich loaves. the load must be quarantined after a temperature excursion; supply returns in 30 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Patiala: fresh bread. the load must be quarantined after a temperature excursion; supply returns in 48 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ambala: white bread. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Patiala: rice bags. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ambala: basmati rice. the load must be quarantined after a temperature excursion; supply returns in 8 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice sacks. the load must be quarantined after a temperature excursion; supply returns in 12 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ludhiana: 5 kg rice. the load must be quarantined after a temperature excursion; supply returns in 18 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Karnal: staple rice. the load must be quarantined after a temperature excursion; supply returns in 24 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Panipat: brown rice. the load must be quarantined after a temperature excursion; supply returns in 30 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Patiala: chawal bags. the load must be quarantined after a temperature excursion; supply returns in 48 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ambala: rice packets. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Patiala: essential care kits. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicine kits. the load must be quarantined after a temperature excursion; supply returns in 8 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medical supplies. the load must be quarantined after a temperature excursion; supply returns in 12 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: pharmacy kits. the load must be quarantined after a temperature excursion; supply returns in 18 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Karnal: healthcare packs. the load must be quarantined after a temperature excursion; supply returns in 24 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Panipat: first aid kits. the load must be quarantined after a temperature excursion; supply returns in 30 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Patiala: medicines. the load must be quarantined after a temperature excursion; supply returns in 48 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ambala: care kits. the load must be quarantined after a temperature excursion; supply returns in 3 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ambala: fresh milk. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk packs. refrigeration stopped working and the cargo warmed up; supply returns in 12 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ludhiana: dairy milk. refrigeration stopped working and the cargo warmed up; supply returns in 18 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Karnal: milk cartons. refrigeration stopped working and the cargo warmed up; supply returns in 24 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Panipat: pasteurised milk. refrigeration stopped working and the cargo warmed up; supply returns in 30 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Patiala: toned milk. refrigeration stopped working and the cargo warmed up; supply returns in 48 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ambala: doodh packets. refrigeration stopped working and the cargo warmed up; supply returns in 3 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk pouches. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ambala: bread loaves. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Chandigarh: whole wheat bread. refrigeration stopped working and the cargo warmed up; supply returns in 12 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ludhiana: sliced bread. refrigeration stopped working and the cargo warmed up; supply returns in 18 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Karnal: bread packets. refrigeration stopped working and the cargo warmed up; supply returns in 24 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Panipat: bakery bread. refrigeration stopped working and the cargo warmed up; supply returns in 30 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Patiala: sandwich loaves. refrigeration stopped working and the cargo warmed up; supply returns in 48 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ambala: fresh bread. refrigeration stopped working and the cargo warmed up; supply returns in 3 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Chandigarh: white bread. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ambala: rice bags. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Chandigarh: basmati rice. refrigeration stopped working and the cargo warmed up; supply returns in 12 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice sacks. refrigeration stopped working and the cargo warmed up; supply returns in 18 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Karnal: 5 kg rice. refrigeration stopped working and the cargo warmed up; supply returns in 24 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Panipat: staple rice. refrigeration stopped working and the cargo warmed up; supply returns in 30 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Patiala: brown rice. refrigeration stopped working and the cargo warmed up; supply returns in 48 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ambala: chawal bags. refrigeration stopped working and the cargo warmed up; supply returns in 3 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice packets. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ambala: essential care kits. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicine kits. refrigeration stopped working and the cargo warmed up; supply returns in 12 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medical supplies. refrigeration stopped working and the cargo warmed up; supply returns in 18 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Karnal: pharmacy kits. refrigeration stopped working and the cargo warmed up; supply returns in 24 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Panipat: healthcare packs. refrigeration stopped working and the cargo warmed up; supply returns in 30 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Patiala: first aid kits. refrigeration stopped working and the cargo warmed up; supply returns in 48 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicines. refrigeration stopped working and the cargo warmed up; supply returns in 3 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: care kits. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: fresh milk. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk packs. unsafe chilled stock failed the cold chain inspection; supply returns in 18 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Karnal: dairy milk. unsafe chilled stock failed the cold chain inspection; supply returns in 24 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Panipat: milk cartons. unsafe chilled stock failed the cold chain inspection; supply returns in 30 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Patiala: pasteurised milk. unsafe chilled stock failed the cold chain inspection; supply returns in 48 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ambala: toned milk. unsafe chilled stock failed the cold chain inspection; supply returns in 3 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Chandigarh: doodh packets. unsafe chilled stock failed the cold chain inspection; supply returns in 8 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk pouches. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Chandigarh: bread loaves. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ludhiana: whole wheat bread. unsafe chilled stock failed the cold chain inspection; supply returns in 18 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Karnal: sliced bread. unsafe chilled stock failed the cold chain inspection; supply returns in 24 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Panipat: bread packets. unsafe chilled stock failed the cold chain inspection; supply returns in 30 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Patiala: bakery bread. unsafe chilled stock failed the cold chain inspection; supply returns in 48 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ambala: sandwich loaves. unsafe chilled stock failed the cold chain inspection; supply returns in 3 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Chandigarh: fresh bread. unsafe chilled stock failed the cold chain inspection; supply returns in 8 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ludhiana: white bread. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Chandigarh: rice bags. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ludhiana: basmati rice. unsafe chilled stock failed the cold chain inspection; supply returns in 18 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Karnal: rice sacks. unsafe chilled stock failed the cold chain inspection; supply returns in 24 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Panipat: 5 kg rice. unsafe chilled stock failed the cold chain inspection; supply returns in 30 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Patiala: staple rice. unsafe chilled stock failed the cold chain inspection; supply returns in 48 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ambala: brown rice. unsafe chilled stock failed the cold chain inspection; supply returns in 3 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Chandigarh: chawal bags. unsafe chilled stock failed the cold chain inspection; supply returns in 8 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice packets. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Chandigarh: essential care kits. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicine kits. unsafe chilled stock failed the cold chain inspection; supply returns in 18 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Karnal: medical supplies. unsafe chilled stock failed the cold chain inspection; supply returns in 24 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Panipat: pharmacy kits. unsafe chilled stock failed the cold chain inspection; supply returns in 30 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Patiala: healthcare packs. unsafe chilled stock failed the cold chain inspection; supply returns in 48 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ambala: first aid kits. unsafe chilled stock failed the cold chain inspection; supply returns in 3 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicines. unsafe chilled stock failed the cold chain inspection; supply returns in 8 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: care kits. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: fresh milk. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Karnal: milk packs. a faulty chiller spoiled the delivery; supply returns in 24 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Panipat: dairy milk. a faulty chiller spoiled the delivery; supply returns in 30 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Patiala: milk cartons. a faulty chiller spoiled the delivery; supply returns in 48 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ambala: pasteurised milk. a faulty chiller spoiled the delivery; supply returns in 3 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Chandigarh: toned milk. a faulty chiller spoiled the delivery; supply returns in 8 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ludhiana: doodh packets. a faulty chiller spoiled the delivery; supply returns in 12 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Karnal: milk pouches. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "milk"}
+{"text": "Urgent note for Ludhiana: bread loaves. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Karnal: whole wheat bread. a faulty chiller spoiled the delivery; supply returns in 24 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Panipat: sliced bread. a faulty chiller spoiled the delivery; supply returns in 30 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Patiala: bread packets. a faulty chiller spoiled the delivery; supply returns in 48 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ambala: bakery bread. a faulty chiller spoiled the delivery; supply returns in 3 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sandwich loaves. a faulty chiller spoiled the delivery; supply returns in 8 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ludhiana: fresh bread. a faulty chiller spoiled the delivery; supply returns in 12 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Karnal: white bread. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "bread"}
+{"text": "Urgent note for Ludhiana: rice bags. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Karnal: basmati rice. a faulty chiller spoiled the delivery; supply returns in 24 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Panipat: rice sacks. a faulty chiller spoiled the delivery; supply returns in 30 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Patiala: 5 kg rice. a faulty chiller spoiled the delivery; supply returns in 48 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ambala: staple rice. a faulty chiller spoiled the delivery; supply returns in 3 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Chandigarh: brown rice. a faulty chiller spoiled the delivery; supply returns in 8 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ludhiana: chawal bags. a faulty chiller spoiled the delivery; supply returns in 12 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Karnal: rice packets. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "rice"}
+{"text": "Urgent note for Ludhiana: essential care kits. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Karnal: medicine kits. a faulty chiller spoiled the delivery; supply returns in 24 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Panipat: medical supplies. a faulty chiller spoiled the delivery; supply returns in 30 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Patiala: pharmacy kits. a faulty chiller spoiled the delivery; supply returns in 48 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ambala: healthcare packs. a faulty chiller spoiled the delivery; supply returns in 3 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: first aid kits. a faulty chiller spoiled the delivery; supply returns in 8 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicines. a faulty chiller spoiled the delivery; supply returns in 12 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Karnal: care kits. a faulty chiller spoiled the delivery; supply returns in 18 hours.", "type": "cold-chain", "product": "medicine"}
+{"text": "Urgent note for Patiala: fresh milk. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ambala: milk packs. our delivery is late because of a traffic jam; supply returns in 8 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Chandigarh: dairy milk. our delivery is late because of a traffic jam; supply returns in 12 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk cartons. our delivery is late because of a traffic jam; supply returns in 18 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Karnal: pasteurised milk. our delivery is late because of a traffic jam; supply returns in 24 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Panipat: toned milk. our delivery is late because of a traffic jam; supply returns in 30 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Patiala: doodh packets. our delivery is late because of a traffic jam; supply returns in 48 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ambala: milk pouches. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Patiala: bread loaves. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ambala: whole wheat bread. our delivery is late because of a traffic jam; supply returns in 8 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sliced bread. our delivery is late because of a traffic jam; supply returns in 12 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ludhiana: bread packets. our delivery is late because of a traffic jam; supply returns in 18 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Karnal: bakery bread. our delivery is late because of a traffic jam; supply returns in 24 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Panipat: sandwich loaves. our delivery is late because of a traffic jam; supply returns in 30 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Patiala: fresh bread. our delivery is late because of a traffic jam; supply returns in 48 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ambala: white bread. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Patiala: rice bags. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ambala: basmati rice. our delivery is late because of a traffic jam; supply returns in 8 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice sacks. our delivery is late because of a traffic jam; supply returns in 12 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ludhiana: 5 kg rice. our delivery is late because of a traffic jam; supply returns in 18 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Karnal: staple rice. our delivery is late because of a traffic jam; supply returns in 24 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Panipat: brown rice. our delivery is late because of a traffic jam; supply returns in 30 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Patiala: chawal bags. our delivery is late because of a traffic jam; supply returns in 48 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ambala: rice packets. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Patiala: essential care kits. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicine kits. our delivery is late because of a traffic jam; supply returns in 8 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medical supplies. our delivery is late because of a traffic jam; supply returns in 12 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: pharmacy kits. our delivery is late because of a traffic jam; supply returns in 18 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Karnal: healthcare packs. our delivery is late because of a traffic jam; supply returns in 24 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Panipat: first aid kits. our delivery is late because of a traffic jam; supply returns in 30 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Patiala: medicines. our delivery is late because of a traffic jam; supply returns in 48 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ambala: care kits. our delivery is late because of a traffic jam; supply returns in 3 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ambala: fresh milk. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk packs. the carrier says the truck needs repairs; supply returns in 12 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ludhiana: dairy milk. the carrier says the truck needs repairs; supply returns in 18 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Karnal: milk cartons. the carrier says the truck needs repairs; supply returns in 24 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Panipat: pasteurised milk. the carrier says the truck needs repairs; supply returns in 30 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Patiala: toned milk. the carrier says the truck needs repairs; supply returns in 48 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ambala: doodh packets. the carrier says the truck needs repairs; supply returns in 3 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Chandigarh: milk pouches. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ambala: bread loaves. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Chandigarh: whole wheat bread. the carrier says the truck needs repairs; supply returns in 12 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ludhiana: sliced bread. the carrier says the truck needs repairs; supply returns in 18 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Karnal: bread packets. the carrier says the truck needs repairs; supply returns in 24 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Panipat: bakery bread. the carrier says the truck needs repairs; supply returns in 30 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Patiala: sandwich loaves. the carrier says the truck needs repairs; supply returns in 48 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ambala: fresh bread. the carrier says the truck needs repairs; supply returns in 3 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Chandigarh: white bread. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ambala: rice bags. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Chandigarh: basmati rice. the carrier says the truck needs repairs; supply returns in 12 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice sacks. the carrier says the truck needs repairs; supply returns in 18 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Karnal: 5 kg rice. the carrier says the truck needs repairs; supply returns in 24 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Panipat: staple rice. the carrier says the truck needs repairs; supply returns in 30 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Patiala: brown rice. the carrier says the truck needs repairs; supply returns in 48 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ambala: chawal bags. the carrier says the truck needs repairs; supply returns in 3 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Chandigarh: rice packets. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ambala: essential care kits. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicine kits. the carrier says the truck needs repairs; supply returns in 12 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medical supplies. the carrier says the truck needs repairs; supply returns in 18 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Karnal: pharmacy kits. the carrier says the truck needs repairs; supply returns in 24 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Panipat: healthcare packs. the carrier says the truck needs repairs; supply returns in 30 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Patiala: first aid kits. the carrier says the truck needs repairs; supply returns in 48 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ambala: medicines. the carrier says the truck needs repairs; supply returns in 3 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: care kits. the carrier says the truck needs repairs; supply returns in 8 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: fresh milk. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk packs. driver availability pushed back the arrival; supply returns in 18 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Karnal: dairy milk. driver availability pushed back the arrival; supply returns in 24 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Panipat: milk cartons. driver availability pushed back the arrival; supply returns in 30 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Patiala: pasteurised milk. driver availability pushed back the arrival; supply returns in 48 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ambala: toned milk. driver availability pushed back the arrival; supply returns in 3 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Chandigarh: doodh packets. driver availability pushed back the arrival; supply returns in 8 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ludhiana: milk pouches. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Chandigarh: bread loaves. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ludhiana: whole wheat bread. driver availability pushed back the arrival; supply returns in 18 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Karnal: sliced bread. driver availability pushed back the arrival; supply returns in 24 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Panipat: bread packets. driver availability pushed back the arrival; supply returns in 30 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Patiala: bakery bread. driver availability pushed back the arrival; supply returns in 48 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ambala: sandwich loaves. driver availability pushed back the arrival; supply returns in 3 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Chandigarh: fresh bread. driver availability pushed back the arrival; supply returns in 8 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ludhiana: white bread. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Chandigarh: rice bags. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ludhiana: basmati rice. driver availability pushed back the arrival; supply returns in 18 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Karnal: rice sacks. driver availability pushed back the arrival; supply returns in 24 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Panipat: 5 kg rice. driver availability pushed back the arrival; supply returns in 30 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Patiala: staple rice. driver availability pushed back the arrival; supply returns in 48 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ambala: brown rice. driver availability pushed back the arrival; supply returns in 3 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Chandigarh: chawal bags. driver availability pushed back the arrival; supply returns in 8 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ludhiana: rice packets. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Chandigarh: essential care kits. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicine kits. driver availability pushed back the arrival; supply returns in 18 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Karnal: medical supplies. driver availability pushed back the arrival; supply returns in 24 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Panipat: pharmacy kits. driver availability pushed back the arrival; supply returns in 30 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Patiala: healthcare packs. driver availability pushed back the arrival; supply returns in 48 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ambala: first aid kits. driver availability pushed back the arrival; supply returns in 3 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: medicines. driver availability pushed back the arrival; supply returns in 8 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: care kits. driver availability pushed back the arrival; supply returns in 12 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: fresh milk. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Karnal: milk packs. the vehicle is delayed at the unloading checkpoint; supply returns in 24 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Panipat: dairy milk. the vehicle is delayed at the unloading checkpoint; supply returns in 30 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Patiala: milk cartons. the vehicle is delayed at the unloading checkpoint; supply returns in 48 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ambala: pasteurised milk. the vehicle is delayed at the unloading checkpoint; supply returns in 3 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Chandigarh: toned milk. the vehicle is delayed at the unloading checkpoint; supply returns in 8 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ludhiana: doodh packets. the vehicle is delayed at the unloading checkpoint; supply returns in 12 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Karnal: milk pouches. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "milk"}
+{"text": "Urgent note for Ludhiana: bread loaves. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Karnal: whole wheat bread. the vehicle is delayed at the unloading checkpoint; supply returns in 24 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Panipat: sliced bread. the vehicle is delayed at the unloading checkpoint; supply returns in 30 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Patiala: bread packets. the vehicle is delayed at the unloading checkpoint; supply returns in 48 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ambala: bakery bread. the vehicle is delayed at the unloading checkpoint; supply returns in 3 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Chandigarh: sandwich loaves. the vehicle is delayed at the unloading checkpoint; supply returns in 8 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ludhiana: fresh bread. the vehicle is delayed at the unloading checkpoint; supply returns in 12 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Karnal: white bread. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "bread"}
+{"text": "Urgent note for Ludhiana: rice bags. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Karnal: basmati rice. the vehicle is delayed at the unloading checkpoint; supply returns in 24 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Panipat: rice sacks. the vehicle is delayed at the unloading checkpoint; supply returns in 30 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Patiala: 5 kg rice. the vehicle is delayed at the unloading checkpoint; supply returns in 48 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ambala: staple rice. the vehicle is delayed at the unloading checkpoint; supply returns in 3 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Chandigarh: brown rice. the vehicle is delayed at the unloading checkpoint; supply returns in 8 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ludhiana: chawal bags. the vehicle is delayed at the unloading checkpoint; supply returns in 12 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Karnal: rice packets. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "rice"}
+{"text": "Urgent note for Ludhiana: essential care kits. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Karnal: medicine kits. the vehicle is delayed at the unloading checkpoint; supply returns in 24 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Panipat: medical supplies. the vehicle is delayed at the unloading checkpoint; supply returns in 30 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Patiala: pharmacy kits. the vehicle is delayed at the unloading checkpoint; supply returns in 48 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ambala: healthcare packs. the vehicle is delayed at the unloading checkpoint; supply returns in 3 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Chandigarh: first aid kits. the vehicle is delayed at the unloading checkpoint; supply returns in 8 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Ludhiana: medicines. the vehicle is delayed at the unloading checkpoint; supply returns in 12 hours.", "type": "delay", "product": "medicine"}
+{"text": "Urgent note for Karnal: care kits. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.", "type": "delay", "product": "medicine"}

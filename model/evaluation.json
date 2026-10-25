@@ -1,0 +1,88 @@
+{
+  "dataset": "Authored synthetic English retail alerts; not real retailer data",
+  "split": "Held-out event phrase families and a separate sentence frame",
+  "trainExamples": 2560,
+  "testExamples": 640,
+  "vocabularySize": 2045,
+  "heads": {
+    "type": {
+      "correct": 640,
+      "accuracy": 1.0,
+      "confusionMatrix": {
+        "cold-chain": {
+          "cold-chain": 128,
+          "delay": 0,
+          "demand": 0,
+          "supplier": 0,
+          "weather": 0
+        },
+        "delay": {
+          "cold-chain": 0,
+          "delay": 128,
+          "demand": 0,
+          "supplier": 0,
+          "weather": 0
+        },
+        "demand": {
+          "cold-chain": 0,
+          "delay": 0,
+          "demand": 128,
+          "supplier": 0,
+          "weather": 0
+        },
+        "supplier": {
+          "cold-chain": 0,
+          "delay": 0,
+          "demand": 0,
+          "supplier": 128,
+          "weather": 0
+        },
+        "weather": {
+          "cold-chain": 0,
+          "delay": 0,
+          "demand": 0,
+          "supplier": 0,
+          "weather": 128
+        }
+      }
+    },
+    "product": {
+      "correct": 640,
+      "accuracy": 1.0,
+      "confusionMatrix": {
+        "bread": {
+          "bread": 160,
+          "medicine": 0,
+          "milk": 0,
+          "rice": 0
+        },
+        "medicine": {
+          "bread": 0,
+          "medicine": 160,
+          "milk": 0,
+          "rice": 0
+        },
+        "milk": {
+          "bread": 0,
+          "medicine": 0,
+          "milk": 160,
+          "rice": 0
+        },
+        "rice": {
+          "bread": 0,
+          "medicine": 0,
+          "milk": 0,
+          "rice": 160
+        }
+      }
+    }
+  },
+  "limitations": [
+    "Template-based evaluation is easier than real retailer messages.",
+    "Scores are uncalibrated model scores, not probabilities of correctness.",
+    "English domain classifier, not a general-purpose language model.",
+    "Cities and quantities use explicit extraction rules and require human confirmation.",
+    "Negation, multiple products, conflicting events and unfamiliar wording may require manual review."
+  ],
+  "modelSha256": "68f5b87703993788e99e86f771088f8fc0ecd378da5d208ef00358e72fb4f6b2"
+}

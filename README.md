@@ -1,39 +1,88 @@
-# Kaafila — retail disruption desk
+# Kaafila — retail resilience
 
-A working hackathon prototype for the BIOS retail supply-chain disruption challenge. Investigate a disruption, inspect store-level risk, compare priced recovery plans, review supporting evidence, and record a manager decision.
+A working BIOS hackathon prototype: receive a retail disruption alert, interpret it with our own small AI model, investigate inventory and supply options, calculate stockout exposure, and present an evidence-backed recovery decision.
 
-## Run locally
+## Run
 
-Requires Node.js 22.13+ (Node 24 recommended).
+Node.js 22.13+ is required; Node 24 is recommended for the test runner.
 
 ```sh
 npm ci
 npm run dev
 ```
 
-Open the Local URL printed by the server (normally http://127.0.0.1:5173).
+Open the printed Local URL, normally http://127.0.0.1:5173.
 
 ```sh
-node --test tests/engine.test.ts
-npx tsc --noEmit
+npm test
+npm run typecheck
 npm run build
 ```
 
+The deployment uses the included Sites/Vinext Cloudflare Worker integration. No paid AI API, database, or secret is needed.
+
+## Try it
+
+1. Open the disruption desk and choose one of five sample alerts.
+2. Click **Investigate alert**. Review store coverage, sales exposure and priced recovery options.
+3. Open **Evidence room** to inspect all seven tool/model outputs.
+4. Choose **Review & approve**, or select an alternative and record a reason.
+5. Export the case as Markdown, including raw evidence and browser-local decisions.
+6. Click **New alert**, paste a sample below, click **Interpret with AlertNet**, confirm the suggested fields, then investigate.
+
+Sample custom prompt:
+
+> Rice demand has surged 2.4x in Chandigarh and Ludhiana. Replenishment is 24 hours away.
+
+More prompts and an easy presentation flow are in [DEMO.md](DEMO.md).
+
+## Our own AI model
+
+**AlertNet 1.0** is trained from scratch on 2,560 synthetic retail alerts. Two multinomial Naive Bayes heads predict event and product classes using word and character features. Deterministic rules extract cities, duration and demand multipliers. The 234 KB model runs in JavaScript; it needs no API key or Python at runtime.
+
+```sh
+python model/train.py
+```
+
+This regenerates model weights, training data, holdout data and evaluation. Both classification heads pass 640/640 held-out synthetic examples; **this is not real-world accuracy**. Read [the model card](model/MODEL_CARD.md) for architecture, scope, abstention and limitations. Manager-confirmed fields govern all downstream calculations.
+
 ## Working features
 
-- Five sample scenarios: flood, demand surge, supplier shortfall, cold-chain breach, covered delivery delay.
-- 24 synthetic stores across six Punjab–Haryana cities and four product categories.
-- Validated investigation API, deterministic risk calculations, capacity-constrained recovery allocation.
-- Evidence room with six inspectable tool results, formulas and assumptions.
-- Interactive network schematic, store filters, report download, approvals and overrides.
-- Optional live weather context from Open-Meteo with explicit failure handling.
-
-## Prototype boundaries
-
-Retail inventory, prices, route times and supplier quotes are synthetic. Sales exposure is not profit or guaranteed lost sales. Approval records a decision in browser localStorage; it does not order goods or dispatch vehicles. The initial replay uses a deterministic planner. A purpose-built alert classification model is being added in the next update.
+- 24 synthetic stores across six Punjab–Haryana cities; four product categories.
+- Five scenarios: flood, demand surge, supplier shortfall, cold-chain breach, covered delivery delay.
+- Custom model-assisted multi-city alert entry.
+- Code-based stock coverage, stockout exposure, risk scoring and cost comparison.
+- Four candidate actions: store transfer, backup supplier, expedite, or monitor.
+- Shared source capacity, donor safety reserves, arrival windows and shelf-life checks.
+- Interactive network schematic and store filtering.
+- Seven inspectable evidence outputs and downloadable case report.
+- Approval and override history in browser localStorage.
+- Optional current weather from [Open-Meteo](https://open-meteo.com/en/docs), isolated from replay assumptions.
 
 ## Architecture
 
-React + TypeScript with the Vinext/Vite Sites starter. API routes run locally and in a Cloudflare Worker. `lib/kaafila/data.ts` defines the demo network; `lib/kaafila/engine.ts` owns risk and recovery math. `app/api/investigate/route.ts` validates incoming alerts. No API key is needed.
+```text
+Text alert → AlertNet classifier + entity rules → human-confirmed fields
+           → validation → inventory/demand → transfers + supplier + route tools
+           → deterministic risk and allocation engine → ranked options
+           → evidence report → manager decision (browser-local)
+```
 
-Weather reference: https://open-meteo.com/en/docs
+React/TypeScript UI on Vinext + Vite. API routes run locally or in a Cloudflare Worker.
+
+- `lib/kaafila/data.ts`: synthetic network and five sample scenarios.
+- `lib/kaafila/alert-model.ts`: TypeScript model inference and extraction.
+- `lib/kaafila/engine.ts`: validation, risk, allocation, costs and evidence.
+- `app/api/interpret`: model-assisted alert parsing.
+- `app/api/investigate`: complete investigation endpoint.
+- `app/api/weather`: bounded current-weather fetch with failure handling.
+- `model/`: training script, dataset, weights, evaluation and model card.
+- `tests/`: risk invariants, model parity, ambiguity handling and API checks.
+
+## Calculation boundaries
+
+Stock cover = on-hand / estimated hourly demand. Shortage = max(0, ceil(demand × replenishment gap − stock)). Sales exposure = shortage × retail price. Actions are ranked by avoided retail sales minus incremental recovery cost; this proxy is **not profit or guaranteed savings**. Each plan is evaluated independently. Demand is assumed constant and original supply resumes after the stated gap. Unaffected donor stores preserve a 24-hour reserve. Unsafe cold-chain shipments and missing shipments cannot be expedited.
+
+## Prototype boundaries
+
+Inventory, supplier quotes, route times, retailer identity and all sample disruptions are synthetic. The map is schematic. Model scores are uncalibrated. Decision history is browser-local, not a shared or tamper-proof audit log. Approving a plan does not place an order, contact a supplier or dispatch a vehicle. Weather is optional live context; it does not verify a fictional disruption. No Telegram integration, ERP import, autonomous learning or production retailer integration is claimed.

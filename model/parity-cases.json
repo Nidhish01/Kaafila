@@ -1,0 +1,202 @@
+[
+  {
+    "text": "Urgent note for Patiala: fresh milk. roads are flooded by heavy rain; supply returns in 3 hours.",
+    "type": "weather",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Patiala: rice bags. roads are flooded by heavy rain; supply returns in 3 hours.",
+    "type": "weather",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ambala: fresh milk. storm flooding made the route inaccessible; supply returns in 8 hours.",
+    "type": "weather",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ambala: rice bags. storm flooding made the route inaccessible; supply returns in 8 hours.",
+    "type": "weather",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Chandigarh: fresh milk. severe monsoon weather shut the bridge; supply returns in 12 hours.",
+    "type": "weather",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Chandigarh: rice bags. severe monsoon weather shut the bridge; supply returns in 12 hours.",
+    "type": "weather",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ludhiana: fresh milk. rainwater on the highway stopped transport; supply returns in 18 hours.",
+    "type": "weather",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ludhiana: rice bags. rainwater on the highway stopped transport; supply returns in 18 hours.",
+    "type": "weather",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Patiala: fresh milk. customer demand rose sharply during festival sales; supply returns in 3 hours.",
+    "type": "demand",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Patiala: rice bags. customer demand rose sharply during festival sales; supply returns in 3 hours.",
+    "type": "demand",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ambala: fresh milk. a promotion has caused sales to surge; supply returns in 8 hours.",
+    "type": "demand",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ambala: rice bags. a promotion has caused sales to surge; supply returns in 8 hours.",
+    "type": "demand",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Chandigarh: fresh milk. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.",
+    "type": "demand",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Chandigarh: rice bags. unexpected purchases are exhausting shelf stock; supply returns in 12 hours.",
+    "type": "demand",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ludhiana: fresh milk. orders are twice the usual demand forecast; supply returns in 18 hours.",
+    "type": "demand",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ludhiana: rice bags. orders are twice the usual demand forecast; supply returns in 18 hours.",
+    "type": "demand",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Patiala: fresh milk. our supplier has failed to ship the full order; supply returns in 3 hours.",
+    "type": "supplier",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Patiala: rice bags. our supplier has failed to ship the full order; supply returns in 3 hours.",
+    "type": "supplier",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ambala: fresh milk. the factory cannot produce the promised shipment; supply returns in 8 hours.",
+    "type": "supplier",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ambala: rice bags. the factory cannot produce the promised shipment; supply returns in 8 hours.",
+    "type": "supplier",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Chandigarh: fresh milk. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.",
+    "type": "supplier",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Chandigarh: rice bags. the vendor shortfall leaves replenishment incomplete; supply returns in 12 hours.",
+    "type": "supplier",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ludhiana: fresh milk. the wholesaler cancelled our incoming supply; supply returns in 18 hours.",
+    "type": "supplier",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ludhiana: rice bags. the wholesaler cancelled our incoming supply; supply returns in 18 hours.",
+    "type": "supplier",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Patiala: fresh milk. the load must be quarantined after a temperature excursion; supply returns in 3 hours.",
+    "type": "cold-chain",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Patiala: rice bags. the load must be quarantined after a temperature excursion; supply returns in 3 hours.",
+    "type": "cold-chain",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ambala: fresh milk. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.",
+    "type": "cold-chain",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ambala: rice bags. refrigeration stopped working and the cargo warmed up; supply returns in 8 hours.",
+    "type": "cold-chain",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Chandigarh: fresh milk. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.",
+    "type": "cold-chain",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Chandigarh: rice bags. unsafe chilled stock failed the cold chain inspection; supply returns in 12 hours.",
+    "type": "cold-chain",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ludhiana: fresh milk. a faulty chiller spoiled the delivery; supply returns in 18 hours.",
+    "type": "cold-chain",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ludhiana: rice bags. a faulty chiller spoiled the delivery; supply returns in 18 hours.",
+    "type": "cold-chain",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Patiala: fresh milk. our delivery is late because of a traffic jam; supply returns in 3 hours.",
+    "type": "delay",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Patiala: rice bags. our delivery is late because of a traffic jam; supply returns in 3 hours.",
+    "type": "delay",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ambala: fresh milk. the carrier says the truck needs repairs; supply returns in 8 hours.",
+    "type": "delay",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ambala: rice bags. the carrier says the truck needs repairs; supply returns in 8 hours.",
+    "type": "delay",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Chandigarh: fresh milk. driver availability pushed back the arrival; supply returns in 12 hours.",
+    "type": "delay",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Chandigarh: rice bags. driver availability pushed back the arrival; supply returns in 12 hours.",
+    "type": "delay",
+    "product": "rice"
+  },
+  {
+    "text": "Urgent note for Ludhiana: fresh milk. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.",
+    "type": "delay",
+    "product": "milk"
+  },
+  {
+    "text": "Urgent note for Ludhiana: rice bags. the vehicle is delayed at the unloading checkpoint; supply returns in 18 hours.",
+    "type": "delay",
+    "product": "rice"
+  }
+]
