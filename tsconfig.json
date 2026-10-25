@@ -42,6 +42,8 @@
     "**/*.mts"
   ],
   "exclude": [
+    "driver-mobile",
+    "firebase",
     "node_modules",
     "examples",
     "dist",

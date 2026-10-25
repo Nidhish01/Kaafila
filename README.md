@@ -86,3 +86,13 @@ Stock cover = on-hand / estimated hourly demand. Shortage = max(0, ceil(demand Ã
 ## Prototype boundaries
 
 Inventory, supplier quotes, route times, retailer identity and all sample disruptions are synthetic. The map is schematic. Model scores are uncalibrated. Decision history is browser-local, not a shared or tamper-proof audit log. Approving a plan does not place an order, contact a supplier or dispatch a vehicle. Weather is optional live context; it does not verify a fictional disruption. No Telegram integration, ERP import, autonomous learning or production retailer integration is claimed.
+
+## Android driver pilot
+
+The dedicated Android app lives in [driver-mobile](driver-mobile/README.md). Open **Live Dispatch** from the manager website for operational assignments, drivers, vehicles and delivery evidence. Firebase setup was deferred; the current build clearly shows setup pending and offers a separate sample walkthrough.
+
+- [Firebase setup and physical-phone launch gate](docs/FIREBASE_SETUP.md)
+- [API, offline queue and stock-custody rules](docs/DISPATCH_API.md)
+- [Release notes and verification](docs/DRIVER_RELEASE.md)
+
+Run `npm run test:dispatch` for domain checks and `npm run test:firebase` for isolated Auth, Firestore, Storage and Functions emulator tests (Java 21 required).

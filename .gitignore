@@ -43,3 +43,21 @@ yarn-error.log*
 
 # OS metadata
 .DS_Store
+
+# Native apps, Firebase tooling and private signing material
+**/node_modules/
+driver-mobile/android/
+driver-mobile/ios/
+driver-mobile/.expo/
+driver-mobile/dist/
+firebase/functions/lib/
+firebase/*debug.log*
+firebase/.firebase/
+firebase/functions/.secret.local
+**/google-services.json
+**/GoogleService-Info.plist
+*.keystore
+*.jks
+*.apk
+*.aab
+!**/.env.example
