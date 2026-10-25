@@ -1,0 +1,34 @@
+name: Build Android APK for local signing
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: driver-mobile/package-lock.json
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: gradle/actions/setup-gradle@v4
+      - run: npm ci && npm run typecheck && npx expo prebuild --platform android --no-install
+        working-directory: driver-mobile
+      - name: Compile standalone unsigned APK
+        run: chmod +x gradlew && ./gradlew assembleRelease -PreactNativeArchitectures=arm64-v8a,armeabi-v7a --no-daemon --console=plain
+        working-directory: driver-mobile/android
+        env:
+          KAAFILA_UNSIGNED_BUILD: '1'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: kaafila-driver-unsigned
+          path: driver-mobile/android/app/build/outputs/apk/release/*unsigned.apk
+          if-no-files-found: error
+          retention-days: 7

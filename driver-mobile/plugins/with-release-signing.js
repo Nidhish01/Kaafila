@@ -8,6 +8,6 @@ module.exports = config => withAppBuildGradle(config, result => {
             keyAlias System.getenv("KAAFILA_KEY_ALIAS") ?: "kaafila"
             keyPassword System.getenv("KAAFILA_KEY_PASSWORD") ?: ""
         }`);
-  result.modResults.contents = signed.replace(/(buildTypes\s*\{[\s\S]*?release\s*\{[\s\S]*?)signingConfig signingConfigs.debug/, '$1signingConfig signingConfigs.release');
+  result.modResults.contents = signed.replace(/(buildTypes\s*\{[\s\S]*?release\s*\{[\s\S]*?)signingConfig signingConfigs.debug/, '$1signingConfig System.getenv("KAAFILA_UNSIGNED_BUILD") == "1" ? null : signingConfigs.release');
   return result;
 });
