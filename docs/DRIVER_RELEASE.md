@@ -19,7 +19,9 @@ Firebase activation was deferred by the owner. No real Firebase project, verific
 - Website, mobile and backend TypeScript checks passed during implementation.
 - Android JavaScript/Hermes bundle exported successfully.
 - Browser checked: dispatch setup state, isolated sample route, stock/stop details, multi-stop form, and disabled unconfigured write actions.
-- Firebase emulator integration suite and signed APK build: final results recorded below when complete.
+- Firebase emulator suite passed all 8 end-to-end cases (9 reported tests including the parent suite): phone enrollment, expired/invalid sessions, revoked drivers, Firestore/Storage denial, cross-driver isolation, duplicate events, private proof, partial quantities, location batches, cancellation, concurrency and reassignment.
+- GitHub Actions also passed the complete checks workflow for the initial driver implementation.
+- Signed APK build: final artifact details recorded below when complete.
 - Not performed: physical Android installation, real SMS OTP, real FCM delivery, screen-off GPS, airplane-mode restart on a phone, real proof upload, and fluent-user language review.
 
 Build-time npm audit includes an unresolved upstream `node-forge` issue in Expo's CLI/certificate tooling. The app does not enable Expo OTA updates or use those certificate-verification paths at runtime. Review upstream patches before production rollout. Firebase Functions runtime dependencies have a clean npm production audit at implementation time.

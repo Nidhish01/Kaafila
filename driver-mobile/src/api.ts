@@ -8,7 +8,7 @@ export class ApiError extends Error { status: number; code: string; constructor(
 export async function api(path:string, body?:unknown, options?:{ bytes?:Uint8Array; contentType?:string }) {
   if (!configured) throw new ApiError(503,'SETUP_REQUIRED','Firebase setup is required.');
   const user=getAuth().currentUser; if(!user)throw new ApiError(401,'UNAUTHENTICATED','Sign in again.');
-  const token=await getIdToken(user); const controller=new AbortController(); const timeout=setTimeout(()=>controller.abort(),25000);
+  let token:string;try{token=await getIdToken(user);}catch(error:any){if(['auth/user-disabled','auth/user-token-expired','auth/invalid-user-token','auth/user-not-found'].includes(error?.code))throw new ApiError(401,'UNAUTHENTICATED','Sign in again.');throw error;} const controller=new AbortController(); const timeout=setTimeout(()=>controller.abort(),25000);
   try { const r=await fetch(apiUrl+'/v1/'+path,{method:body!==undefined || options?.bytes?'POST':'GET',headers:{Authorization:'Bearer '+token,'Content-Type':options?.contentType || 'application/json'},body:options?.bytes ? options.bytes as unknown as BodyInit : body!==undefined?JSON.stringify(body):undefined,signal:controller.signal});const value=await r.json();if(!r.ok)throw new ApiError(r.status,value.code,value.error);return value; } finally { clearTimeout(timeout); }
 }
 export const login=(phone:string)=>signInWithPhoneNumber(getAuth(),phone);

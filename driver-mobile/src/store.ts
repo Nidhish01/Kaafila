@@ -36,7 +36,7 @@ async function runSync(){
       if(account!==uid())return;
       await d.withExclusiveTransactionAsync(async tx=>{await tx.runAsync('DELETE FROM outbox WHERE id=?',item.id);const pending=await tx.getFirstAsync("SELECT id FROM outbox WHERE job_id=? AND kind='action'",item.job_id);if(!pending && item.kind==='action')await tx.runAsync('INSERT OR REPLACE INTO jobs VALUES (?,?)',result.id,JSON.stringify(result));});
       if(item.photo){const file=new File(item.photo);if(file.exists)file.delete();}
-    }catch(e){const conflict=e instanceof ApiError && [400,403,404,409].includes(e.status);await d.runAsync('UPDATE outbox SET state=?,error=? WHERE id=?',conflict?'conflict':'saved',e instanceof Error?e.message:String(e),item.id);if(e instanceof ApiError && [401,403].includes(e.status))throw e;if(!conflict)break;}
+    }catch(e){const conflict=e instanceof ApiError && [400,403,404,409,413].includes(e.status);await d.runAsync('UPDATE outbox SET state=?,error=? WHERE id=?',conflict?'conflict':'saved',e instanceof Error?e.message:String(e),item.id);if(e instanceof ApiError && [401,403].includes(e.status))throw e;if(!conflict)break;}
   }
 }
 export async function refreshJobs(){const result=await api('jobs');const pending=await queue();const d=await database();const remoteIds=new Set<string>(result.jobs.map((j:Job)=>j.id));for(const local of await jobs()){if(!remoteIds.has(local.id)){if(pending.some(p=>p.job_id===local.id))await d.runAsync("UPDATE outbox SET state='conflict',error='Assignment no longer available' WHERE job_id=?",local.id);else await d.runAsync('DELETE FROM jobs WHERE id=?',local.id);}}

@@ -64,7 +64,7 @@ npm run typecheck
 npx expo prebuild --platform android
 ```
 
-On Windows, install Android API 36, build-tools 36.0.0, NDK 27.1.12297006 and CMake 3.22.1. Set `ANDROID_HOME` and use Java 17 or 21. Run `scripts/build-release.ps1 -SdkPath YOUR_SDK_PATH` in PowerShell. It creates a private release key in `%USERPROFILE%\.kaafila\signing`, protects its password with Windows DPAPI, produces a release APK with an embedded JS bundle, and verifies the APK signature. **Back up the keystore and recoverable password securely** before using it for a real pilot. DPAPI XML is tied to this Windows account and is not a portable key backup.
+On Windows, install Android API 36, build-tools 36.0.0 **and 35.0.0** (needed by a native dependency), NDK 27.1.12297006 and CMake 3.22.1. Set `ANDROID_HOME` and use Java 17 or 21. Run `scripts/build-release.ps1 -SdkPath YOUR_SDK_PATH` in PowerShell. It creates a private release key in `%USERPROFILE%\.kaafila\signing`, protects its password with Windows DPAPI, produces a release APK with an embedded JS bundle, and verifies the APK signature. **Back up the keystore and recoverable password securely** before using it for a real pilot. DPAPI XML is tied to this Windows account and is not a portable key backup.
 
 On other systems, use `eas build --platform android --profile pilot` with your Expo account. For local Gradle builds, set `KAAFILA_KEYSTORE`, `KAAFILA_STORE_PASSWORD`, `KAAFILA_KEY_ALIAS` and `KAAFILA_KEY_PASSWORD`, then run `./gradlew assembleRelease` inside the generated Android directory. Do not commit generated native builds, signing files or credentials.
 
